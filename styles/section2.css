@@ -1,0 +1,26 @@
+.section_2{
+    
+    background-color: #F3F3F3;
+    text-align: center;
+    margin: 0 auto;
+    padding: 40px 0;
+}
+
+.card-items{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1040px;
+    margin: 0 auto;
+}
+
+.card-items li{
+    max-width: 290px;
+    border: 1px solid #B3B7B1;
+    border-radius: 8px;
+    padding: 16px;
+
+}
+
+.item-text{
+
+}

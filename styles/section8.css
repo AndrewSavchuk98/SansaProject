@@ -1,0 +1,54 @@
+.section8-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.section8{
+    padding: 100px 0px;
+    background-color: aliceblue;
+}
+.brand-container div{
+    display: flex;
+    align-items: center;
+}
+.payments div{
+    display: flex;
+    width: 160px;
+}
+.Download{
+    display: flex;
+    width: 330px;
+    justify-content: space-between;
+}
+.logo-cont{
+    display: flex;
+    align-items: center;
+    width: 330px;
+    justify-content: space-between;
+    margin-right: 50px;
+}
+.part2-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.lang-form{
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.lang-form img{
+    position: absolute;
+    left: 6px;
+}
+
+.lang-form select{
+    background-color: aliceblue;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+}

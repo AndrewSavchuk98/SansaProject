@@ -1,0 +1,63 @@
+.section_7 {
+    text-align: center;
+    margin: auto;
+    padding: 40px 0;
+}
+
+
+.spacing {
+    width: auto;
+    height: 24px;
+}
+
+.form {
+    max-width: 620px;
+    margin: 0 auto;
+}
+
+.form input {
+    display: block;
+    width: 620px;
+    height: 48px;
+    border: 1px solid #DADFD8;
+    border-radius: 4px;
+    padding-left: 42px;
+    margin-bottom: 24px;
+}
+
+.form-container {
+    max-width: 700px;
+    margin: 0 auto;
+    border: 1px solid #DADFD8;
+    border-radius: 24px;
+}
+
+.form-button {
+    background-color: #8AC732;
+    border-radius: 100px;
+    display: block;
+    text-align: center;
+    color: white;
+    width: 620px;
+    border: none;
+    height: 48px;
+    margin-bottom: 32px;
+}
+.input-container{
+    display: flex;
+    position: relative;
+    align-items: center;
+}
+
+.input-container img{
+    position: absolute;
+     left: 4px;
+    margin-bottom: 24px;
+
+}
+.gmail{
+    position: absolute;
+    right: 10px;
+    display: inline;
+    margin-bottom: 40px;
+}

@@ -1,0 +1,49 @@
+.section_3{
+    text-align: center;
+    margin: auto;
+    padding: 40px 0;
+}
+
+.card-container{
+    display: flex;
+    margin: 0 auto;
+    max-width: 1040px;
+    justify-content: space-between;
+}
+
+.card-review{
+    max-width: 450px;
+    border-radius: 8px;
+    border: 1px solid #DADFD8;
+    text-align: start;
+    padding: 16px;
+}
+
+.card-review .cart-img{
+    display: flex;
+    align-items: center;
+
+}
+
+.stars-items{
+    display: flex;
+    align-items: center;
+}
+.stars-items p{
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 8px;
+}
+.stars-items img{
+    width: 24px;
+    height: 24px;
+}
+
+h6{
+    margin: 8px 0px;
+}
+.card-review .cart-img img{
+    width: 75px;
+    height: 75px;
+    margin-right: 16px;
+}

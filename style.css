@@ -1,0 +1,41 @@
+.header {
+    background-color: #F1FDDF;
+    display: flex;
+    justify-content: space-between;
+    padding: 12px 80px;
+}
+
+body {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.logo {}
+
+.header ul {
+    display: flex;
+    min-width: 390px;
+    justify-content: space-between;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.header ul li a:hover {
+    color: #8AC732;
+}
+
+li{
+    list-style-type: none;
+}
+
+.item-section{
+    background-color: #8AC732;
+    width: 268px;
+    height: 1px;
+    margin: 0 auto;
+ }

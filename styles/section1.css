@@ -1,0 +1,31 @@
+.section_1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 100px;
+    align-items: center;
+}
+
+.section-container {
+    max-width: 610px;
+}
+
+.section_1 .buttons-group {
+    margin-top: 26px;
+
+}
+
+.section_1 .buttons-group a {
+    border-radius: 100px;
+    padding: 8px 14px;
+
+}
+
+.shop {
+    background-color: #8AC732;
+    color: white;
+}
+
+.learn {
+    color: #8AC732;
+    border: 1px solid #6A6C68;
+}
